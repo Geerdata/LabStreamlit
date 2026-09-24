@@ -10,7 +10,7 @@ df = pd.read_csv("traj_UNI_CORR_500_01.txt",
 
 st.write("""
 # Mi primera aplicación interactiva
-## Histograma sobre el eje X e Y
+## 
 """)
 
 # Using "with" notation
